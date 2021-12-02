@@ -1,2 +1,2 @@
 # Hello
-Print the message "Hello" on the screen.
+Print the message "Hello" in different language.

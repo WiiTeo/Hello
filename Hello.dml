@@ -1,0 +1,5 @@
+<!-- Hello in my language :) -->
+<Dream version="0.1">
+  <Print>Hello</Print>
+  <Exit />
+</Dream>
